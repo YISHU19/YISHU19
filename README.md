@@ -1,4 +1,4 @@
-﻿# Hi, I'm Dheeransh Jain 👋
+# Hi, I'm Dheeransh Jain 👋
 
 I work on **machine learning and deep learning** — building models in Python, from classic ensemble methods to CNNs for image recognition, and lately experimenting with running AI models locally.
 
@@ -18,7 +18,7 @@ I work on **machine learning and deep learning** — building models in Python, 
 |---|---|
 | [**DL-Activity**](https://github.com/YISHU19/DL-Activity) | CNN that classifies clothing images into 5 categories, with a Gradio web demo (~69% test accuracy) |
 | [**adaboost-ensemble-learning**](https://github.com/YISHU19/adaboost-ensemble-learning) | AdaBoost classifier on survey response data, evaluated with a confusion matrix and classification report |
-| [**Deep-Learning-Model**](https://github.com/YISHU19/Deep-Learning-Model) | Fully connected neural network baseline for CIFAR-10 image classification |
+| [**Deep-Learning-Model**](https://github.com/YISHU19/Deep-Learning-Model) | CIFAR-10 image classification: dense network vs CNN (47% → 81% test accuracy) |
 
 ### 🌱 Currently
 - Exploring open-source AI models from Hugging Face
