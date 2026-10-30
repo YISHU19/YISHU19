@@ -11,11 +11,20 @@ I work on **machine learning and deep learning** — building models in Python, 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📌 Projects
 | Project | What it does |
 |---|---|
+| [**call-centre-queue-simulation**](https://github.com/YISHU19/call-centre-queue-simulation) | Staffing study with a SimPy M/M/c simulation, validated against Erlang C theory (within ~2%) |
+| [**sentiment-analysis-tfidf**](https://github.com/YISHU19/sentiment-analysis-tfidf) | Review sentiment classifier (Amazon, IMDb, Yelp) with TF-IDF and tuned logistic regression (0.75 test F1) |
+| [**customer-segmentation-clustering**](https://github.com/YISHU19/customer-segmentation-clustering) | Mall customer segments: K-Means vs DBSCAN with PCA, silhouette and Davies–Bouldin comparison |
+| [**vr-headset-website**](https://github.com/YISHU19/vr-headset-website) | Responsive multi-page product site in HTML, CSS and JavaScript ([live demo](https://yishu19.github.io/vr-headset-website/)) |
+| [**car-park-management-java**](https://github.com/YISHU19/car-park-management-java) | Object-oriented Java console app for staff and visitor parking, with tests |
+| [**ai-search-algorithms**](https://github.com/YISHU19/ai-search-algorithms) | Tested BFS, DFS, greedy best-first search and hand-written backpropagation |
 | [**DL-Activity**](https://github.com/YISHU19/DL-Activity) | CNN that classifies clothing images into 5 categories, with a Gradio web demo (~69% test accuracy) |
 | [**adaboost-ensemble-learning**](https://github.com/YISHU19/adaboost-ensemble-learning) | AdaBoost classifier on survey response data, evaluated with a confusion matrix and classification report |
 | [**Deep-Learning-Model**](https://github.com/YISHU19/Deep-Learning-Model) | CIFAR-10 image classification: dense network vs CNN (47% → 81% test accuracy) |
