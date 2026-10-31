@@ -6,6 +6,7 @@ I work on **machine learning and deep learning** — building models in Python, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -19,6 +20,8 @@ I work on **machine learning and deep learning** — building models in Python, 
 ### 📌 Projects
 | Project | What it does |
 |---|---|
+| [**cifar10-ml-vs-dl**](https://github.com/YISHU19/cifar10-ml-vs-dl) | CIFAR-10 head-to-head: HOG + tuned SVM (53.7%) vs fine-tuned ResNet-50 (91.5%) on the same split |
+| [**horses-vs-humans-cnn**](https://github.com/YISHU19/horses-vs-humans-cnn) | Keras image classifier: from-scratch CNN, a documented failed experiment, and MobileNetV2 transfer learning (100% validation) |
 | [**call-centre-queue-simulation**](https://github.com/YISHU19/call-centre-queue-simulation) | Staffing study with a SimPy M/M/c simulation, validated against Erlang C theory (within ~2%) |
 | [**sentiment-analysis-tfidf**](https://github.com/YISHU19/sentiment-analysis-tfidf) | Review sentiment classifier (Amazon, IMDb, Yelp) with TF-IDF and tuned logistic regression (0.75 test F1) |
 | [**customer-segmentation-clustering**](https://github.com/YISHU19/customer-segmentation-clustering) | Mall customer segments: K-Means vs DBSCAN with PCA, silhouette and Davies–Bouldin comparison |
